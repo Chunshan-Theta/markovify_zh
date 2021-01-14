@@ -25,7 +25,7 @@ class MarkovifyInterface:
             text = self.texts.pop()
             self.models.append(markovify.Text(text))
 
-    def make_sentence(self,max_times_invocation=10):
+    def make_sentence(self, max_times_invocation=10):
         self.convent_text_2_model()
         self.gen_model()
         sentence = None

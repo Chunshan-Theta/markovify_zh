@@ -1,0 +1,13 @@
+.idea
+__pycache__
+
+# Virtual Environment
+venv
+
+# log
+log.txt
+
+# Environment
+.env
+
+resource/*.log

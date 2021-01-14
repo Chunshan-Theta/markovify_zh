@@ -4,6 +4,7 @@ pip install -r requirement.txt
 
 Data:
 ```
+# markovify_zh/test/texts/
 他家的奶茶超級好喝
 餅和粥都不錯
 餅和粥很好吃醬料也很好吃
